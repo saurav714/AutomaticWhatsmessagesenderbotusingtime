@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg("+919461540759","Good Night Maa",16,5)
+pywhatkit.sendwhatmsg("+9XXXXXXXX","Your Message enter here",Hour(Put in integer),minute(minutes put in interger))
